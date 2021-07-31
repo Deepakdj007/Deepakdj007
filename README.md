@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepakdj007
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently pusrsuing B-Tech CS
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 You can reach me by mail: deepakjose000@gmail.com
 
