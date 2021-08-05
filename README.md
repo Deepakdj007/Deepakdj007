@@ -5,7 +5,7 @@
 - 📫 You can reach me by mail: deepakjose000@gmail.com
 - ⭐ Admin of Data Science Brain, an educational page on instagram with over 27,000 followers.
 
-![My GitHub Status](https://github-readme-stats.vercel.app/api?username=Deepakdj007&show_icons=true&title_color=FF5050&bg_color=000000&icon_color=FF5050&text_color=FFFFFF&icon_color=FF5050)
+![My GitHub Status](https://github-readme-stats.vercel.app/api?username=Deepakdj007&show_icons=true&title_color=FF5050&bg_color=000000&icon_color=FF5050&text_color=FFFFFF)
 
 <!---
 Deepakdj007/Deepakdj007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
