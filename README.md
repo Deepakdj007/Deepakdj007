@@ -5,7 +5,7 @@
 - 📫 You can reach me by mail: deepakjose000@gmail.com
 - ⭐ Admin of Data Science Brain, an educational page on instagram with over 27,000 followers.
 
-![My GitHub Status](https://github-readme-stats.vercel.app/api?username=Deepakdj007&show_icons=true&title_color=FFFFFF&bg_color=1C1C1C&icon_color=FF5050&text_color=BFBFBF&show_owner=true)
+![My GitHub Status](https://github-readme-stats.vercel.app/api?username=Deepakdj007&show_icons=true&title_color=FF5050&bg_color=1C1C1C&icon_color=FF5050&text_color=BFBFBF&show_owner=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakdj007&layout=compact&bg_color=1C1C1C&text_color=FFFFFF&title_color=FFFFFF)
 
