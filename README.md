@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepakdj007
-- ❤️ I'm a creator, writer and developer.
+- ❤️ I'm a Creator, Writer & Developer.
 - 👀 I’m interested in Data Science & Web Development.
 - 🌱 I’m a B Tech Computer Science Graduate.
 - 💞️ I’m looking to collaborate on Web Developement/Data Science projects.
