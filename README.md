@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepakdj007
 - ❤️ I'm a creator, writer and developer.
-- 👀 I’m interested in Data Science & Web Develpemetn.
+- 👀 I’m interested in Data Science & Web Development.
 - 🌱 I’m a B Tech Computer Science Graduate.
 - 💞️ I’m looking to collaborate on Web Developement/Data Science projects.
 - 📫 You can reach me by mail: deepakjose000@gmail.com
