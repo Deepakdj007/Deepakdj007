@@ -4,7 +4,7 @@
 - 🌱 I’m a B Tech Computer Science Graduate.
 - 💞️ I’m looking to collaborate on Web Developement/Data Science projects.
 - 📫 You can reach me by mail: deepakjose000@gmail.com
-- ⭐ Admin of Data Science Brain, an educational page on instagram with over 65,000 followers.
+- ⭐ Admin of Data Science Brain, an educational page on instagram with over 250,000 followers.
 
 ![My GitHub Status](https://github-readme-stats.vercel.app/api?username=Deepakdj007&show_icons=true&title_color=FFFFFF&bg_color=1C1C1C&icon_color=FF5050&text_color=BFBFBF&show_owner=true)
 
