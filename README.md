@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Deepakdj007
-- ❤️ I'm a Creator, Writer & Developer.
-- 👀 I’m interested in Data Science & Web Development.
-- 🌱 I’m a B Tech Computer Science Graduate.
-- 💞️ I’m looking to collaborate on Web Developement/Data Science projects.
-- 📫 You can reach me by mail: deepakjose000@gmail.com
-- ⭐ Admin of Data Science Brain, an educational page on instagram with over 450,000 followers.
+# Hi there 👋, I'm Deepak (@Deepakdj007)
+
+- ❤️ Applied AI Engineer | Content Creator | Digital Product Builder
+- 👀 Interested in GenAI, LLM Applications & Production AI Systems
+- 🌱 Building voice agents, RAG pipelines & AI-powered products in production
+- 🔧 Working with Angular, FastAPI & Generative AI in production
+- 💞️ Open to collaborations on GenAI / AI Engineering projects
+- 📫 Reach me: deepakjose000@gmail.com
+- ⭐ Admin of [@datasciencebrain](https://instagram.com/datasciencebrain) — AI & Data Science education, 450K+ followers on Instagram
 
 ![My GitHub Status](https://github-readme-stats.vercel.app/api?username=Deepakdj007&show_icons=true&title_color=FFFFFF&bg_color=1C1C1C&icon_color=FF5050&text_color=BFBFBF&show_owner=true)
 
