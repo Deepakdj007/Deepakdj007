@@ -10,7 +10,7 @@
 
 [![My GitHub stats](https://github-stats-extended.vercel.app/api?username=Deepakdj007)](https://github.com/stats-organization/github-stats-extended)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakdj007&layout=compact&bg_color=1C1C1C&text_color=FFFFFF&title_color=FFFFFF)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Deepakdj007&layout=compact&bg_color=1C1C1C&text_color=FFFFFF&title_color=FFFFFF)
 
 <!---
 Deepakdj007/Deepakdj007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
