@@ -6,7 +6,6 @@
 - 🔧 Working with Angular, FastAPI & Generative AI in production
 - 💞️ Open to collaborations on GenAI / AI Engineering projects
 - 📫 Reach me: deepakjose000@gmail.com
-- ⭐ Admin of [@datasciencebrain](https://instagram.com/datasciencebrain) — AI & Data Science education, 450K+ followers on Instagram
 
 [![My GitHub stats](https://github-stats-extended.vercel.app/api?username=Deepakdj007)](https://github.com/stats-organization/github-stats-extended)
 
